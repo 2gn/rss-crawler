@@ -1,6 +1,6 @@
 module github.com/2gn/i-harness-rss
 
-go 1.26.1
+go 1.25.8
 
 require (
 	github.com/PuerkitoBio/goquery v1.12.0 // indirect

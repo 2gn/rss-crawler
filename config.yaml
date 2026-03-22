@@ -1,0 +1,29 @@
+targets:
+  - name: "i-harness"
+    feed:
+      title: "i-harness.com"
+      link: "https://i-harness.com"
+      description: "RSS feed for i-harness.com"
+      author: "i-harness.com"
+    scrape:
+      url: "https://i-harness.com"
+      item_selector: ".col-md-9"
+      title_selector: "a"
+      link_selector: "a"
+      link_attr: "href"
+      description_selector: "p"
+      base_url: "https://i-harness.com"
+  - name: "web-sic"
+    feed:
+      title: "学術情報センター"
+      link: "https://web.sic.shibaura-it.ac.jp"
+      description: "芝浦工業大学 学術情報センターのRSS(非公式)"
+      author: "学術情報センター"
+    scrape:
+      url: "https://web.sic.shibaura-it.ac.jp/faqs/faq_questions/index/337/limit:20?frame_id=544"
+      item_selector: "article"
+      title_selector: "a"
+      link_selector: "a"
+      link_attr: "href"
+      description_selector: "article.clearfix"
+      base_url: "https://web.sic.shibaura-it.ac.jp"

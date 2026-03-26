@@ -1,0 +1,9 @@
+targets:
+  - name: "hn-top"
+    exclude: ["Hiring","hiring"]
+    min_points: 10
+    limit: 10
+  - name: "hn-ai"
+    include: ["AI", "LLM", "GPT", "DeepSeek", "Artificial", "Claude", "claude", "llm", "gpt", "CLAUDE", "Gemini", "gemini", "Codex", "codex", "OpenAI", "Agents"]
+    limit: 5
+    min_points: 10

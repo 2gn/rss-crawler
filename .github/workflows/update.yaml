@@ -21,8 +21,11 @@ jobs:
           go-version-file: 'go.mod'
           token: ${{ github.token }}
 
+      - name: Set up Just
+        uses: extractions/setup-just@v3
+
       - name: Generate RSS
-        run: go run main.go
+        run: just run
 
       - name: Commit generated RSS
         run: |

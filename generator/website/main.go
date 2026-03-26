@@ -49,7 +49,13 @@ func ProcessTarget(target Target, outputDir string) {
 	}
 
 	// Request the HTML page.
-	res, err := http.Get(target.Scrape.URL)
+	req, err := http.NewRequest("GET", target.Scrape.URL, nil)
+	if err != nil {
+		log.Printf("[%s] Error creating request: %v", target.Name, err)
+		return
+	}
+	req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+	res, err := http.DefaultClient.Do(req)
 	if err != nil {
 		log.Printf("[%s] Error fetching URL: %v", target.Name, err)
 		return
@@ -156,7 +162,7 @@ func main() {
 		log.Fatalf("Error unmarshalling config: %v", err)
 	}
 
-	outputDir := "rss"
+	outputDir := "../../rss"
 	if _, err := os.Stat(outputDir); os.IsNotExist(err) {
 		err = os.Mkdir(outputDir, 0755)
 		if err != nil {

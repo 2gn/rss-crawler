@@ -27,3 +27,17 @@ targets:
       link_attr: "href"
       description_selector: "article.clearfix"
       base_url: "https://web.sic.shibaura-it.ac.jp"
+  - name: "hn-lo"
+    feed:
+      title: "HN&LO recent links"
+      link: "https://gerikson.com/hnlo/index.html"
+      description: "Links shared between Lobste.rs and Hacker News in the last 3 days. "
+      author: "gerikson"
+    scrape:
+      url: "https://gerikson.com/hnlo/index.html"
+      item_selector: "h2.link"
+      title_selector: "a:nth-of-type(2)"
+      link_selector: "a:nth-of-type(2)"
+      link_attr: "href"
+      description_selector: "span.tags"
+      base_url: ""

@@ -74,7 +74,12 @@ func ProcessTarget(target Target, outputDir string) {
 	}
 
 	// Find entries
-	doc.Find(target.Scrape.ItemSelector).Each(func(i int, s *goquery.Selection) {
+	selection := doc.Find(target.Scrape.ItemSelector)
+	if os.Getenv("DEBUG") == "true" {
+		log.Printf("[%s] Debug: Found %d items with selector %s", target.Name, selection.Length(), target.Scrape.ItemSelector)
+	}
+
+	selection.Each(func(i int, s *goquery.Selection) {
 		// For each item found, get the title
 		title := strings.TrimSpace(s.Find(target.Scrape.TitleSelector).First().Text())
 		url, _ := s.Find(target.Scrape.LinkSelector).First().Attr(target.Scrape.LinkAttr)

@@ -1,16 +1,8 @@
-run-website:
-    cd generator/website && go run main.go
+run *args:
+    go run main.go {{args}} all
 
-run-hn:
-    cd generator/hackernews && go run main.go
-
-run: run-website run-hn
+list *args:
+    go run main.go {{args}} list
 
 update-docs:
-    echo "# RSS Feeds" > feeds_list.md
-    echo "" >> feeds_list.md
-    for f in rss/*.rss; do \
-        name=$(basename $f .rss); \
-        filename=$(basename $f); \
-        echo "* [$name](https://github.com/2gn/rss-crawler/raw/refs/heads/main/rss/$filename)" >> feeds_list.md; \
-    done
+    go run main.go update-docs

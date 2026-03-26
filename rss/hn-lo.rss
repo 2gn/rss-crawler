@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>HN&amp;LO recent links</title>
+    <link>https://gerikson.com/hnlo/index.html</link>
+    <description>Links shared between Lobste.rs and Hacker News in the last 3 days. </description>
+    <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    <item>
+      <title>10 operating systems. One USB. ZFS on root. AI-powered. Free</title>
+      <link>https://kldload.com/</link>
+      <description>ai vibecoding</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Engineers do get promoted for writing simple code</title>
+      <link>https://www.seangoedecke.com/simple-work-gets-rewarded/</link>
+      <description>practices</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>destruction-certificate.txt</title>
+      <link>https://stallman.org/articles/destruction-certificate.txt</link>
+      <description>emacs historical satire</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Vim Racing</title>
+      <link>https://www.vimgym.app/</link>
+      <description>vim</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Why pylock.toml includes digital attestations</title>
+      <link>https://snarky.ca/why-pylock-toml-includes-digital-attestations/</link>
+      <description>python</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>vim-classic: Long-term maintenance of Vim 8.x</title>
+      <link>https://sr.ht/~sircmpwn/vim-classic/</link>
+      <description>release vim</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Shell Tricks That Actually Make Life Easier (And Save Your Sanity)</title>
+      <link>https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/</link>
+      <description>unix</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Updates to GitHub Copilot interaction data usage policy</title>
+      <link>https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/</link>
+      <description>vibecoding</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Which Design Doc Did a Human Write?</title>
+      <link>https://refactoringenglish.com/blog/ai-vs-human-design-doc/</link>
+      <description>programming vibecoding</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Your First Parser</title>
+      <link>https://davesnx.github.io/parseff/guides/first-parser/</link>
+      <description>ml plt</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Jensen Huang on AI &#39;Token Factories&#39;, The Future of Labor, and &#39;Dying on the Job&#39;</title>
+      <link>https://founderboat.com/interviews/2026-03-24-jensen-nvidia/</link>
+      <description>ai</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Quantization from the ground up</title>
+      <link>https://ngrok.com/blog/quantization</link>
+      <description>ai</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>&#34;Disregard that!&#34; attacks</title>
+      <link>https://calpaterson.com/disregard.html</link>
+      <description>security vibecoding</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Announcing Lix 2.95 “Kakigōri”</title>
+      <link>https://lix.systems/blog/2026-03-25-lix-2.95-release/</link>
+      <description>nix release</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Thoughts on slowing the fuck down</title>
+      <link>https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/</link>
+      <description>vibecoding</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Introducing ipxlat: a stateless IPv4/IPv6 translation device</title>
+      <link>https://lore.kernel.org/netdev/20260319151230.655687-1-ralf@mandelbit.com/</link>
+      <description>linux networking</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>I used OpenClaw to analyze TrustMRR&#39;s top 200 startups</title>
+      <link>https://www.webscraperapi.ai/blog/i-used-openclaw-to-analyze-trustmrrs-top-200-startups</link>
+      <description>vibecoding</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ubuntu Looks To Strip GRUB To The Bare Minimum For Better Security</title>
+      <link>https://discourse.ubuntu.com/t/streamlining-secure-boot-for-26-10/79069</link>
+      <description>linux</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>C++26: A User-Friendly assert() macro</title>
+      <link>https://www.sandordargo.com/blog/2026/03/25/cpp26-user-friendly-assert</link>
+      <description>c++</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Forking httpx as httpxyz</title>
+      <link>https://tildeweb.nl/~michiel/httpxyz.html</link>
+      <description>python</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Magic Link Pitfalls</title>
+      <link>https://etodd.io/2026/03/22/magic-link-pitfalls/</link>
+      <description>browsers email security</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>iStat Menus &lt; 7.20.5 local privilege escalation</title>
+      <link>https://markuta.com/istat-menus-local-privilege-escalation/</link>
+      <description>mac security</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Scan-scatter fusion</title>
+      <link>https://futhark-lang.org/blog/2026-03-24-scan-scatter-fusion.html</link>
+      <description>performance plt</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Deadlocking a Tokio Mutex Without Holding a Lock</title>
+      <link>https://www.e6data.com/blog/deadlocking-tokio-mutex-without-holding-lock</link>
+      <description>rust</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Type Construction and Cycle Detection</title>
+      <link>https://go.dev/blog/type-construction-and-cycle-detection</link>
+      <description>go</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>&#34;﷽&#34; U+FDFD: ARABIC LIGATURE BISMILLAH AR-RAHMAN AR-RAHEEM (Unicode Character)</title>
+      <link>https://unicodeplus.com/U+FDFD</link>
+      <description>a11y</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>TurboQuant: Redefining AI efficiency with extreme compression</title>
+      <link>https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/</link>
+      <description>ai</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Fyrox 1.0.0</title>
+      <link>https://fyrox.rs/blog/post/fyrox-game-engine-1-0-0/</link>
+      <description>games graphics release rust</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Architecture Decision Record</title>
+      <link>https://martinfowler.com/bliki/ArchitectureDecisionRecord.html</link>
+      <description>practices</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>WebKit Features for Safari 26.4</title>
+      <link>https://webkit.org/blog/17862/webkit-features-for-safari-26-4/</link>
+      <description>web</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Addressing global removal race in Wayland</title>
+      <link>https://blog.vladzahorodnii.com/2026/03/24/addressing-global-removal-race-in-wayland/</link>
+      <description>linux</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Go Naming Conventions: A Practical Guide</title>
+      <link>https://www.alexedwards.net/blog/go-naming-conventions</link>
+      <description>go</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Hegel, a universal property-based testing protocol and family of PBT libraries</title>
+      <link>https://hegel.dev</link>
+      <description>testing vibecoding</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Mining the commons: AI extraction, Wikipedia, and the case for a multi-stakeholder settlement</title>
+      <link>https://policyreview.info/articles/news/commons-ai-extraction-wikipedia/2089</link>
+      <description>web</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>When upserts don&#39;t update but still write: Debugging Postgres performance at scale</title>
+      <link>https://www.datadoghq.com/blog/engineering/debugging-postgres-performance/</link>
+      <description>databases performance</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Choose Boring Technology and Innovative Practices</title>
+      <link>https://buttondown.com/hillelwayne/archive/choose-boring-technology-and-innovative-practices/</link>
+      <description>devops programming scaling</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Pine64 FOSDEM 2026 Update</title>
+      <link>https://pine64.org/2026/03/24/march_2026_fosdem/</link>
+      <description>hardware</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Slopification and its Discontents</title>
+      <link>https://charlesleifer.com/blog/slopification-and-its-discontents/</link>
+      <description>python vibecoding</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Announcing Guile Knots</title>
+      <link>https://www.cbaines.net/posts/announcing_guile_knots/</link>
+      <description>lisp</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Lines of code are useful</title>
+      <link>https://entropicthoughts.com/lines-of-code</link>
+      <description>practices science</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>How io_uring Overtook libaio: Performance Across Linux Kernels — and an Unexpected IOMMU Trap</title>
+      <link>https://blog.ydb.tech/how-io-uring-overtook-libaio-performance-across-linux-kernels-and-an-unexpected-iommu-trap-ea6126d9ef14</link>
+      <description>databases</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Missile Defense is NP-Complete</title>
+      <link>https://smu160.github.io/posts/missile-defense-is-np-complete/</link>
+      <description>compsci</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>LiteLLM Compromised by Credential Stealer</title>
+      <link>https://futuresearch.ai/blog/litellm-pypi-supply-chain-attack/</link>
+      <description>security vibecoding</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Lessons from Pyre that Shaped Pyrefly</title>
+      <link>https://pyrefly.org/blog/lessons-from-pyre/</link>
+      <description>ml plt python rust</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Debunking zswap and zram myths</title>
+      <link>https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html</link>
+      <description>linux performance</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>curl &gt; dev/sda</title>
+      <link>https://astrid.tech/2026/03/24/0/curl-to-dev-sda/</link>
+      <description>osdev</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>The Why and What of the CIDR Report</title>
+      <link>https://www.potaroo.net/ispcol/2026-03/cidr-report.html</link>
+      <description>networking</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>A Study on the Performance Implications of AArch64 Atomics</title>
+      <link>https://www.researchgate.net/publication/370682772_A_Study_on_the_Performance_Implications_of_AArch64_Atomics</link>
+      <description>hardware pdf performance</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>IRIX 3dfx Voodoo driver + glide2x IRIX port</title>
+      <link>https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/</link>
+      <description>graphics retrocomputing</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Playbit runtime</title>
+      <link>https://playbit.app/</link>
+      <description>design release</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Google Just Patented The End Of Your Website</title>
+      <link>https://www.forbes.com/sites/joetoscano1/2026/03/06/google-just-patented-the-end-of-your-website/</link>
+      <description>web</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Pony Gets a Template Engine</title>
+      <link>https://www.ponylang.io/blog/2026/03/pony-gets-a-template-engine/</link>
+      <description>plt</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Simulating Multi-Table Contention in Catalog Formats</title>
+      <link>https://cdouglas.github.io/posts/2026/03/providercatalog</link>
+      <description>databases</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>BasicBox: A 486-class PC emulator written entirely in Visual Basic 6</title>
+      <link>https://github.com/mikechambers84/BasicBox</link>
+      <description>retrocomputing</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Guideline: Rust Style</title>
+      <link>https://epage.github.io/dev/rust-style/</link>
+      <description>rust</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Electric Motorcycles are a Security Nightmare</title>
+      <link>https://persephonekarnstein.github.io/post/zero-days/</link>
+      <description>reversing security</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>the broken economics of databases</title>
+      <link>https://www.bitsxpages.com/p/the-broken-economics-of-databases</link>
+      <description>databases finance</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>The machine didn&#39;t take your craft. You gave it up</title>
+      <link>https://www.davidabram.dev/musings/the-machine-didnt-take-your-craft/</link>
+      <description>philosophy vibecoding</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>TLA+ mental models</title>
+      <link>http://muratbuffalo.blogspot.com/2026/03/tla-mental-models.html</link>
+      <description>formalmethods</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>From error-handling to structured concurrency</title>
+      <link>https://blog.nelhage.com/post/concurrent-error-handling/</link>
+      <description>programming</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Announcing TypeScript 6.0</title>
+      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-6-0/</link>
+      <description>javascript release</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>How do you trust a new Linux distribution?</title>
+      <link>https://kron.fi/en/posts/stagex-web-of-trust/</link>
+      <description>cryptography linux security</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Semi-retirement, or, really, changing my relationship with the BSDs</title>
+      <link>https://briancallahan.net/blog/20260322.html</link>
+      <description>openbsd security</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Markdown Ate the World</title>
+      <link>https://matduggan.com/markdown-ate-the-world/</link>
+      <description>historical</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>An Incoherent Rust</title>
+      <link>https://www.boxyuwu.blog/posts/an-incoherent-rust/</link>
+      <description>rust</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Generators in lone lisp</title>
+      <link>https://www.matheusmoreira.com/articles/generators-in-lone-lisp</link>
+      <description>lisp</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Qt 6.11 Released</title>
+      <link>https://www.qt.io/blog/qt-6.11-released</link>
+      <description>c++</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>The Death of Character in Game Console Interfaces</title>
+      <link>https://vale.rocks/posts/game-console-interfaces</link>
+      <description>design games</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Native Instant Space Switching on MacOS</title>
+      <link>https://arhan.sh/blog/native-instant-space-switching-on-macos/</link>
+      <description>mac</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Whistler: Live eBPF Programming from the Common Lisp REPL</title>
+      <link>https://atgreen.github.io/repl-yell/posts/whistler/</link>
+      <description>linux lisp</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>My DIY FPGA board can run Quake II (part 4)</title>
+      <link>https://blog.mikhe.ch/quake2-on-fpga/part4.html</link>
+      <description>hardware</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>The diminished art of coding</title>
+      <link>https://nolanlawson.com/2026/03/22/the-diminished-art-of-coding/</link>
+      <description>vibecoding</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Can it Resolve DOOM? Game Engine in 2,000 DNS Records</title>
+      <link>https://blog.rice.is/post/doom-over-dns/</link>
+      <description>networking</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Why I love NixOS</title>
+      <link>https://www.birkey.co/2026-03-22-why-i-love-nixos.html</link>
+      <description>nix</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Two studies in compiler optimisations</title>
+      <link>https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/</link>
+      <description>c++ compilers</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Reports of code&#39;s death are greatly exaggerated</title>
+      <link>https://stevekrouse.com/precision</link>
+      <description>vibecoding</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Rendering complex scripts in terminal and OSC 66</title>
+      <link>https://thottingal.in/blog/2026/03/22/complex-scripts-in-terminal/</link>
+      <description>historical unix</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>The Engineer Who Tried to Put Age Verification Into Linux</title>
+      <link>https://www.sambent.com/the-engineer-who-tried-to-put-age-verification-into-linux-5/</link>
+      <description>law systemd</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Looking at Unity finally made me understand the point of C++ coroutines</title>
+      <link>https://mropert.github.io/2026/03/20/unity_cpp_coroutines/</link>
+      <description>c++</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>BIO: The Bao I/O Coprocessor</title>
+      <link>https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor/</link>
+      <description>hardware</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Why your next mobile app is probably headless</title>
+      <link>https://tuananh.net/2026/03/18/why-your-next-mobile-app-is-probably-headless/</link>
+      <description>ai</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>New vivaldi feature: ui auto-hide</title>
+      <link>https://vivaldi.com/blog/vivaldi-on-desktop-7-9/</link>
+      <description>design web</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>COBE v2 -- 5kB globe lib</title>
+      <link>https://cobe.vercel.app/</link>
+      <description>design javascript visualization web</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Design Conductor: An agent autonomously builds a 1.5 GHz Linux-capable RISC-V CPU</title>
+      <link>https://arxiv.org/abs/2603.08716</link>
+      <description>hardware vibecoding</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Optimization lessons from a Minecraft structure locator</title>
+      <link>https://purplesyringa.moe/blog/optimization-lessons-from-a-minecraft-structure-locator/</link>
+      <description>performance</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Open Source Gave Me Everything Until I Had Nothing Left to Give</title>
+      <link>https://kennethreitz.org/essays/2026-03-18-open_source_gave_me_everything_until_i_had_nothing_left_to_give</link>
+      <description>culture</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>GNOME 50 released</title>
+      <link>https://release.gnome.org/50/</link>
+      <description>linux release</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>The Proliferation of DarkSword: iOS Exploit Chain Adopted by Multiple Threat Actors</title>
+      <link>https://cloud.google.com/blog/topics/threat-intelligence/darksword-ios-exploit-chain</link>
+      <description>ios security</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Three levels of Nix</title>
+      <link>https://simonshine.dk/articles/three-levels-of-nix/</link>
+      <description>nix</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>A small proposal for mixing PQ KEMs into Noise</title>
+      <link>https://runxiyu.org/comp/nkem1/</link>
+      <description>cryptography</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Building a Reader for the World’s Smallest Hard Drive</title>
+      <link>https://www.willwhang.dev/Reading-MK4001MTD/</link>
+      <description>hardware vibecoding</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>tree-style invite systems reduce AI slop</title>
+      <link>https://abyss.fish/tree-style_invite_systems_reduce_AI_slop</link>
+      <description>culture</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Mojo&#39;s not (yet) Python</title>
+      <link>https://theconsensus.dev/p/2026/03/12/mojos-not-yet-python.html</link>
+      <description>plt python</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>On Making</title>
+      <link>https://beej.us/blog/data/ai-making/</link>
+      <description>vibecoding</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>I Put a Full JVM Inside a Browser Tab</title>
+      <link>https://bmarti44.substack.com/p/i-put-a-full-jvm-inside-a-browser</link>
+      <description>java wasm web</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Fooling Go&#39;s X.509 Certificate Verification</title>
+      <link>https://danielmangum.com/posts/fooling-go-x509-certificate-verification/</link>
+      <description>go security</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Simple Made Inevitable: The Economics of Language Choice in the LLM Era</title>
+      <link>https://felixbarbalet.com/simple-made-inevitable-the-economics-of-language-choice-in-the-llm-era/</link>
+      <description>clojure vibecoding</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>epoll&#39;s handle-centric design is more composable than kqueue&#39;s filter-centric design (2021)</title>
+      <link>https://ariadne.space/2021/06/05/actually-bsd-kqueue-is-a.html</link>
+      <description>freebsd linux programming</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>The Road Ahead for LocalStack: Upcoming Changes to the Delivery of Our AWS Cloud Emulators (2025)</title>
+      <link>https://blog.localstack.cloud/the-road-ahead-for-localstack/</link>
+      <description>devops testing</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Getting Global Age Assurance Right: What We Got Wrong and What&#39;s Changing</title>
+      <link>https://discord.com/blog/getting-global-age-assurance-right-what-we-got-wrong-and-whats-changing</link>
+      <description>culture privacy</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Large-scale online deanonymization with LLMs</title>
+      <link>https://arxiv.org/abs/2602.16800</link>
+      <description>privacy</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>How to program computers (kOS) (2015)</title>
+      <link>https://fall.tr/kos</link>
+      <description>apl osdev</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Technology: The (nearly) perfect USB cable tester does exist</title>
+      <link>https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/</link>
+      <description>hardware</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Measuring out-of-sync clocks on the Internet</title>
+      <link>https://alexsci.com/blog/clock-skew/</link>
+      <description>compsci</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Furgit: fast implementation of Git in pure Go</title>
+      <link>https://github.com/runxiyu/furgit</link>
+      <description>go show vcs</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>The present and potential future of progressive image rendering</title>
+      <link>https://jakearchibald.com/2025/present-and-future-of-progressive-image-rendering/</link>
+      <description>graphics web</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Nine HTTP Edge Cases</title>
+      <link>https://blog.dochia.dev/blog/http_edge_cases/</link>
+      <description>api practices security</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Andromeda: JavaScript &amp; TypeScript runtime built in Rust and powered by Nova Engine</title>
+      <link>https://tryandromeda.dev/</link>
+      <description>javascript rust</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Relational Thinking in J</title>
+      <link>https://storytotell.org/relational-thinking-in-j</link>
+      <description>apl</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Mimalloc Cigarette: Losing one week of my life catching a memory leak</title>
+      <link>https://pwy.io/posts/mimalloc-cigarette/</link>
+      <description>rust</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Missile vs. Laser: The Game of Terminal Maneuvers</title>
+      <link>https://www.ethanheilman.com/x/31/index.html</link>
+      <description>games math science show</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Structuring Go projects</title>
+      <link>https://www.alexedwards.net/blog/11-tips-for-structuring-your-go-projects</link>
+      <description>go practices</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Apple’s macOS UNIX certification is a lie (2025)</title>
+      <link>https://www.osnews.com/story/141633/apples-macos-unix-certification-is-a-lie/</link>
+      <description>mac unix</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>The Co-Blub Paradox</title>
+      <link>https://reasonablypolymorphic.com/blog/coblub/</link>
+      <description>education programming</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>What is a dependency?</title>
+      <link>https://matklad.github.io/2024/12/30/what-is-dependency.html</link>
+      <description>programming</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Minimal Version Selection Revisited</title>
+      <link>https://matklad.github.io/2024/12/24/minimal-version-selection-revisited.html</link>
+      <description>practices</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>macOS Tips</title>
+      <link>https://blog.xoria.org/macos-tips/</link>
+      <description>mac practices</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>The Mouse Programming Language on CP/M</title>
+      <link>https://techtinkering.com/articles/the-mouse-programming-language-on-cpm/</link>
+      <description>concatenative</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Quint</title>
+      <link>https://quint-lang.org/</link>
+      <description>formalmethods</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>An Extensive Benchmark of C and C++ Hash Tables</title>
+      <link>https://jacksonallan.github.io/c_cpp_hash_tables_benchmark/</link>
+      <description>c c++ performance</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Rye language</title>
+      <link>https://ryelang.org/</link>
+      <description>plt</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>LibreChat: enhanced ChatGPT clone for self-hosting</title>
+      <link>https://github.com/danny-avila/LibreChat</link>
+      <description>ai</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Fast and flexible observability with canonical log lines (2019)</title>
+      <link>https://stripe.com/blog/canonical-log-lines</link>
+      <description>practices</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Hot Module Replacement is Easy (2025)</title>
+      <link>https://bjornlu.com/blog/hot-module-replacement-is-easy</link>
+      <description>javascript</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ironies of Automation (1983)</title>
+      <link>http://www.complexcognition.co.uk/2021/06/ironies-of-automation.html</link>
+      <description>cogsci historical</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>The Logfile Navigator For The Small-Scale</title>
+      <link>https://lnav.org/</link>
+      <description>debugging devops</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Accidental $70k Google Pixel Lock Screen Bypass</title>
+      <link>https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/</link>
+      <description>android security</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>The Nightmare Of Getting DOOM Running On A Serious Business Machine</title>
+      <link>https://www.youtube.com/watch?v=XzhCGSE7KKw</link>
+      <description>unix video</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Arturo programming language</title>
+      <link>https://arturo-lang.io/</link>
+      <description>programming</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Power consumption of Game Boy flash cartridges</title>
+      <link>https://gekkio.fi/blog/2021/power-consumption-of-game-boy-flash-cartridges/</link>
+      <description>games hardware</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>cursed_things</title>
+      <link>https://suricrasia.online/iceberg/</link>
+      <description>security</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>A Compiler Writing Journey - self-compiling C subset</title>
+      <link>https://github.com/DoctorWkt/acwj</link>
+      <description>compilers programming</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>SYN packet handling in the wild</title>
+      <link>https://blog.cloudflare.com/syn-packet-handling-in-the-wild/</link>
+      <description>c compsci cryptography debugging linux networking</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>localstack: A fully functional local AWS cloud stack</title>
+      <link>https://github.com/localstack/localstack</link>
+      <description>testing</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Life Lessons from Differential Equations</title>
+      <link>https://www.johndcook.com/blog/2015/07/23/life-lessons-from-differential-equations/</link>
+      <description>math philosophy practices</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Coding Machines (2009)</title>
+      <link>https://www.teamten.com/lawrence/writings/coding-machines/</link>
+      <description>programming</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>netboot.xyz</title>
+      <link>https://netboot.xyz/</link>
+      <description>devops release</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Chaitin&#39;s constant</title>
+      <link>https://en.wikipedia.org/wiki/Chaitin%27s_constant</link>
+      <description>compsci</description>
+      <author>gerikson</author>
+      <pubDate>Fri, 27 Mar 2026 00:12:33 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

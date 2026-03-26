@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RSS Feed Previewer</title>
+    <style>
+        :root {
+            --bg-color: #f8f9fa;
+            --container-bg: #ffffff;
+            --primary-color: #007bff;
+            --text-color: #333;
+            --border-color: #dee2e6;
+            --muted-text: #6c757d;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: var(--container-bg);
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            margin-top: 0;
+            color: var(--primary-color);
+        }
+
+        textarea {
+            width: 100%;
+            height: 200px;
+            padding: 12px;
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            font-family: monospace;
+            font-size: 14px;
+            margin-bottom: 15px;
+            box-sizing: border-box;
+            resize: vertical;
+        }
+
+        button {
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: 600;
+            transition: background-color 0.2s;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        #preview {
+            margin-top: 30px;
+        }
+
+        .feed-header {
+            border-bottom: 2px solid var(--border-color);
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+        }
+
+        .feed-item {
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 20px;
+            margin-bottom: 20px;
+            transition: transform 0.1s;
+        }
+
+        .feed-item:hover {
+            border-color: var(--primary-color);
+        }
+
+        .item-title {
+            margin-top: 0;
+            font-size: 1.25rem;
+        }
+
+        .item-title a {
+            color: var(--primary-color);
+            text-decoration: none;
+        }
+
+        .item-title a:hover {
+            text-decoration: underline;
+        }
+
+        .item-meta {
+            font-size: 0.875rem;
+            color: var(--muted-text);
+            margin-bottom: 10px;
+        }
+
+        .item-content {
+            font-size: 1rem;
+            overflow-wrap: break-word;
+        }
+
+        .item-content img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 10px 0;
+        }
+
+        .error {
+            color: #dc3545;
+            padding: 15px;
+            border: 1px solid #f5c6cb;
+            background-color: #f8d7da;
+            border-radius: 4px;
+            margin-top: 15px;
+        }
+
+        pre {
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            background: #f1f3f5;
+            padding: 10px;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>RSS Feed Previewer</h1>
+    <p>Paste the raw XML content of an RSS feed below to preview it.</p>
+    
+    <textarea id="rssInput" placeholder="Paste RSS XML here..."></textarea>
+    <button onclick="previewRSS()">Preview Feed</button>
+
+    <div id="preview"></div>
+</div>
+
+<script>
+    function previewRSS() {
+        const input = document.getElementById('rssInput').value.trim();
+        const previewContainer = document.getElementById('preview');
+        
+        previewContainer.innerHTML = '';
+
+        if (!input) {
+            previewContainer.innerHTML = '<div class="error">Please paste some RSS content first.</div>';
+            return;
+        }
+
+        try {
+            const parser = new DOMParser();
+            const xmlDoc = parser.parseFromString(input, "text/xml");
+
+            // Check for parsing errors
+            const parseError = xmlDoc.getElementsByTagName("parsererror");
+            if (parseError.length > 0) {
+                throw new Error("Invalid XML structure.");
+            }
+
+            const channel = xmlDoc.querySelector('channel');
+            if (!channel) {
+                throw new Error("Could not find <channel> element. Is this a valid RSS feed?");
+            }
+
+            // Render Feed Header
+            const feedTitle = channel.querySelector('title')?.textContent || 'Untitled Feed';
+            const feedLink = channel.querySelector('link')?.textContent || '#';
+            const feedDesc = channel.querySelector('description')?.textContent || '';
+
+            let headerHtml = `
+                <div class="feed-header">
+                    <h2><a href="${feedLink}" target="_blank">${escapeHtml(feedTitle)}</a></h2>
+                    <p>${escapeHtml(feedDesc)}</p>
+                </div>
+            `;
+            previewContainer.innerHTML = headerHtml;
+
+            // Render Items
+            const items = xmlDoc.querySelectorAll('item');
+            if (items.length === 0) {
+                previewContainer.innerHTML += '<p>No items found in this feed.</p>';
+                return;
+            }
+
+            items.forEach(item => {
+                const title = item.querySelector('title')?.textContent || 'No Title';
+                const link = item.querySelector('link')?.textContent || '#';
+                const pubDate = item.querySelector('pubDate')?.textContent || '';
+                const author = item.querySelector('author')?.textContent || item.querySelector('dc\\:creator')?.textContent || '';
+                
+                // Try description first, then content:encoded
+                let content = item.querySelector('description')?.textContent || '';
+                const encodedContent = item.getElementsByTagNameNS("http://purl.org/rss/1.0/modules/content/", "encoded")[0]?.textContent;
+                if (encodedContent) {
+                    content = encodedContent;
+                }
+
+                const itemDiv = document.createElement('div');
+                itemDiv.className = 'feed-item';
+                
+                let itemHtml = `
+                    <h3 class="item-title"><a href="${link}" target="_blank">${escapeHtml(title)}</a></h3>
+                    <div class="item-meta">
+                        ${pubDate ? `<span>Published: ${escapeHtml(pubDate)}</span>` : ''}
+                        ${author ? ` | <span>By: ${escapeHtml(author)}</span>` : ''}
+                    </div>
+                    <div class="item-content">${sanitizeHtml(content)}</div>
+                `;
+                
+                itemDiv.innerHTML = itemHtml;
+                previewContainer.appendChild(itemDiv);
+            });
+
+        } catch (e) {
+            previewContainer.innerHTML = `<div class="error">Error parsing RSS: ${e.message}</div>`;
+        }
+    }
+
+    function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+    }
+
+    function sanitizeHtml(html) {
+        // Simple sanitization: allow most tags but be careful with scripts
+        // In a real app, use a library like DOMPurify
+        const doc = new DOMParser().parseFromString(html, 'text/html');
+        
+        // Remove script tags
+        const scripts = doc.querySelectorAll('script');
+        scripts.forEach(s => s.remove());
+        
+        // Handle images/links opening in new tab
+        const links = doc.querySelectorAll('a');
+        links.forEach(l => l.setAttribute('target', '_blank'));
+
+        return doc.body.innerHTML;
+    }
+</script>
+
+</body>
+</html>

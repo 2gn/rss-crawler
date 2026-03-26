@@ -162,7 +162,7 @@ func main() {
 		log.Fatalf("Error unmarshalling config: %v", err)
 	}
 
-	outputDir := "rss"
+	outputDir := "../../rss"
 	if _, err := os.Stat(outputDir); os.IsNotExist(err) {
 		err = os.Mkdir(outputDir, 0755)
 		if err != nil {

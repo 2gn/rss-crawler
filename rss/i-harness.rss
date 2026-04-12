@@ -3,174 +3,174 @@
     <title>i-harness.com</title>
     <link>https://i-harness.com</link>
     <description>RSS feed for i-harness.com</description>
-    <pubDate>Sun, 12 Apr 2026 16:36:06 +0000</pubDate>
+    <pubDate>Sun, 12 Apr 2026 17:32:15 +0000</pubDate>
     <item>
       <title>【エンジニア必見】ハイラル城のUI崩れを防げ！impeccableで構築する「伝説のデザイン言語」</title>
       <link>https://i-harness.com/articles/pbakaus/impeccable</link>
       <description>「AIのUIデザイン、もっとシュッとしてほしいな……」って悩んでること、あるよね。今回は、そんな悩みを解決するかもしれない謎の力（ライブラリ）、impeccable について解説するよ。ゼルダの伝説のパロディ風に、エンジニア目線でお届けするね！...</description>
       <author>i-harness.com</author>
-      <pubDate>Sun, 12 Apr 2026 16:36:06 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 17:32:15 +0000</pubDate>
     </item>
     <item>
       <title>【CLIツール解説】Claude Code専用プラグイン「claude-hud」の導入手順と活用事例</title>
       <link>https://i-harness.com/articles/jarrodwatts/claude-hud</link>
       <description>今日攻略するタイトルは jarrodwatts/claude-hud。 これは、話題のAIコーディングツール「Claude Code」の動きを、まるでゲームのHUD（ヘッドアップディスプレイ）のように可視化してくれる、エンジニアにとっての「追加装備」だ。...</description>
       <author>i-harness.com</author>
-      <pubDate>Sun, 12 Apr 2026 16:36:06 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 17:32:15 +0000</pubDate>
     </item>
     <item>
       <title>脱・巨大プロンプト！ context-hub を使った賢いRAG構成と導入ガイド</title>
       <link>https://i-harness.com/articles/andrewyng/context-hub</link>
       <description>今回オーダーいただいた andrewyng/context-hub は、LLM（大規模言語モデル）という気まぐれなシェフに、最高の料理（回答）を作ってもらうための「究極の下準備ツール」と言える存在です。それでは、ソフトウェアエンジニアの視点から、このツールがどのように現場の「キッチン」を支えるのか、フルコース形式で解説しますね。...</description>
       <author>i-harness.com</author>
-      <pubDate>Sun, 12 Apr 2026 16:36:06 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 17:32:15 +0000</pubDate>
     </item>
     <item>
       <title>コードを書く前にDockerを叩け！OpenRAGで実現する、構造化データに強いAIアプリケーション開発</title>
       <link>https://i-harness.com/articles/langflow-ai/openrag</link>
       <description>返事は「イエス、サー！」か「アイ・アイ・サー！」だけだ。いいな！？いいか、OpenRAGは、Langflow（直感的なGUI）、Docling（爆速ドキュメント解析）、OpenSearch（最強の検索エンジン）を一つにまとめた、RAG界の特殊部隊だ！...</description>
       <author>i-harness.com</author>
-      <pubDate>Sun, 12 Apr 2026 16:36:06 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 17:32:15 +0000</pubDate>
     </item>
     <item>
       <title>22世紀のチャット運用術：AstrBotによるマルチプラットフォーム抽象化とエージェント基盤</title>
       <link>https://i-harness.com/articles/AstrBotDevs/AstrBot</link>
       <description>のび太「ドラえも〜ん！LINEとかDiscordとか、いろんなSNSで動く自分専用のAI秘書を作りたいんだけど、設定が難しすぎて頭がパンクしそうだよ〜！」ドラえもん「やれやれ、のび太くんは相変わらずだね。でも安心しなよ！そんなときのために……（四次元ポケットをガサゴソ）……『AstrBot（アストラ・ボット）』！！」...</description>
       <author>i-harness.com</author>
-      <pubDate>Sun, 12 Apr 2026 16:36:06 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 17:32:15 +0000</pubDate>
     </item>
     <item>
       <title>Claude Codeを「最強の相棒」にするための実践ベストプラクティス集</title>
       <link>https://i-harness.com/articles/shanraisshan/claude-code-best-practice</link>
       <description>今回は、最近話題の Claude Code を使いこなすためのバイブル的存在、claude-code-best-practice についてや。これを知ってるかどうかで、開発効率が「サラダチキン」か「特上カルビ」くらい変わってくるから、しっかりついてきてや！...</description>
       <author>i-harness.com</author>
-      <pubDate>Sun, 12 Apr 2026 16:36:06 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 17:32:15 +0000</pubDate>
     </item>
     <item>
       <title>AI時代の救世主？Zig製ヘッドレスブラウザ「Lightpanda」で爆速自動化を実現する</title>
       <link>https://i-harness.com/articles/lightpanda-io/browser</link>
       <description>今日は「Lightpanda」の話だっけ。最近のヘッドレスブラウザ界隈は、重厚長大な Chromium ベースのツールにメモリを食いつぶされるのが常識になってるけど、この Lightpanda はちょっとした「救世主」になるかもしれない。エンジニアの視点から、この「パンダ」がどう役立つのか、泥を啜るようなデバッグの日々からどう救ってくれるのか、少し語らせてくれ。...</description>
       <author>i-harness.com</author>
-      <pubDate>Sun, 12 Apr 2026 16:36:06 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 17:32:15 +0000</pubDate>
     </item>
     <item>
       <title>コントで学ぶInsForge：AIにDBもAuthも丸投げして、人間は価値創造に集中せよ</title>
       <link>https://i-harness.com/articles/InsForge/InsForge</link>
       <description>「InsForge」についてですね。これ、一言で言うと「AIエージェントに『手』と『脳（コンテキスト）』を授ける、次世代のバックエンド・プラットフォーム」です。ソフトウェアエンジニアの視点から、その凄さと使い方をコント仕立ての運勢と共にお届けします！...</description>
       <author>i-harness.com</author>
-      <pubDate>Sun, 12 Apr 2026 16:36:06 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 17:32:15 +0000</pubDate>
     </item>
     <item>
       <title>磯野家、ネット断絶！？Project N.O.M.A.Dで挑む「オフライン生存戦略」の巻</title>
       <link>https://i-harness.com/articles/Crosstalk-Solutions/project-nomad</link>
       <description>カツオ「ねえねえ姉さん！もし明日、磯野家のネットが突然止まって、GoogleもChatGPTも使えなくなったらどうする？」サザエ「あらやだカツオ、そんなの波平さんに『バカモン！』って言われるより恐ろしいわよ！献立も調べられないし、迷子になっちゃうわ！」...</description>
       <author>i-harness.com</author>
-      <pubDate>Sun, 12 Apr 2026 16:36:06 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 17:32:15 +0000</pubDate>
     </item>
     <item>
       <title>Node.js、パッケージマネージャ、ビルドツールを1つに。Vite+導入検討のためのエンジニア向け徹底解説</title>
       <link>https://i-harness.com/articles/voidzero-dev/vite-plus</link>
       <description>本日は、フロントエンド界隈で今もっとも熱い視線を浴びているVite+ (voidzero-dev/vite-plus)について、エンジニアの「導入したい派」と「慎重派」が激しい（？）コントを繰り広げます。推進派（シュン） 「いいですか皆さん！Node...</description>
       <author>i-harness.com</author>
-      <pubDate>Sun, 12 Apr 2026 16:36:06 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 17:32:15 +0000</pubDate>
     </item>
     <item>
       <title>【エンジニア必見】ガシャポン筐体をハックせよ！World Monitorで世界情勢を「箱買い」監視する OSINT 攻略法</title>
       <link>https://i-harness.com/articles/koala73/worldmonitor</link>
       <description>客（エンジニア） 「よーし、今日はこの『世界情勢ガシャ』を回すぞ！何が出るかな…あ、また『小規模なデモ』だ。昨日は『どっかの国の株価暴落』だったし。情報がバラバラすぎて、何が本当にヤバいのか分からん！」店主（World Monitor） 「お客さん、そんな『単発回し』じゃダメですよ。今は情報の『箱買い（一括監視）』の時代です。これ、使いな。『World Monitor』だ！」...</description>
       <author>i-harness.com</author>
-      <pubDate>Sun, 12 Apr 2026 16:36:06 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 17:32:15 +0000</pubDate>
     </item>
     <item>
       <title>理想のフォームを求めて。Newton-Physicsで極める高速物理演算の世界</title>
       <link>https://i-harness.com/articles/newton-physics/newton</link>
       <description>さて、今回持ってきたのは Newton (newton-physics/newton) だね。これがまた、エンジニアのムラムラする好奇心を刺激する、かなり「硬派」なライブラリなんだ。NVIDIA WarpをベースにしたGPU加速物理エンジン……。これ、普通の物理演算とは「挿入」の深さが違うんだよ。さっそく、ソフトな下ネタをスパイスに、エンジニア視点で解説していくね。...</description>
       <author>i-harness.com</author>
-      <pubDate>Sun, 12 Apr 2026 16:36:06 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 17:32:15 +0000</pubDate>
     </item>
     <item>
       <title>モダンAIスタックの結晶：MoneyPrinterV2を活用した自動化パイプライン構築術</title>
       <link>https://i-harness.com/articles/FujiwaraChoki/MoneyPrinterV2</link>
       <description>今回、我々が調査する伝説の秘宝は、GitHubに眠る FujiwaraChoki/MoneyPrinterV2 だ。名前からして「お金を刷る機械」なんて、ワクワクするじゃないか？さあ、松明を掲げて、エンジニアの視点からこのツールの正体を暴いていこう！...</description>
       <author>i-harness.com</author>
-      <pubDate>Sun, 12 Apr 2026 16:36:06 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 17:32:15 +0000</pubDate>
     </item>
     <item>
       <title>ログイン不要！OpenAI Codex &amp; Claude Codeの使用状況を可視化する「CodexBar」徹底解説</title>
       <link>https://i-harness.com/articles/steipete/CodexBar</link>
       <description>登場人物先輩（冷静沈着、効率厨、赤い彗星っぽい）後輩（お調子者、すぐトークンを使い切る、黄色いネズミっぽい）後輩 「先輩！大変です！今すぐ Claude Code で爆速コーディングしたいのに、なぜか動きません！僕の情熱が足りないんですかね！？」...</description>
       <author>i-harness.com</author>
-      <pubDate>Sun, 12 Apr 2026 16:36:06 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 17:32:15 +0000</pubDate>
     </item>
     <item>
       <title>【爆速解析】Claude Scientific Skillsでバイオインフォマティクスを自動化するエンジニア向けガイド</title>
       <link>https://i-harness.com/articles/K-Dense-AI/claude-scientific-skills</link>
       <description>「早い・安い・うまい」ならぬ、「速い・賢い・すぐ使える」！ 今回お持ちしたのは、科学・研究の最前線をエンジニアの力で爆速にする秘伝のタレ、「K-Dense-AI/claude-scientific-skills」でございます！「バイオインフォマティクス？ゲノム解析？難しそうだな…」とお思いの旦那、これがあればエンジニアが科学者に早変わりですよ。さあ、一丁上がり！...</description>
       <author>i-harness.com</author>
-      <pubDate>Sun, 12 Apr 2026 16:36:06 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 17:32:15 +0000</pubDate>
     </item>
     <item>
       <title>【捜査報告】xiaohongshu-mcpで中国SNSのトレンドをプロファイリングせよ</title>
       <link>https://i-harness.com/articles/xpzouying/xiaohongshu-mcp</link>
       <description>「落ち着け、新米刑事。これはただの事件じゃない。『xiaohongshu-mcp』が絡んでいるようだ。……よし、鑑識を呼ぶ前に、この『凶器』がエンジニアにとってどれほど便利か、現場検証といこうか。」これは、AI（Claudeなど）と外部ツールを繋ぐ共通規格 Model Context Protocol (MCP) を使って、小紅書（Xiaohongshu / RED）のデータにアクセスするためのサーバーだ。...</description>
       <author>i-harness.com</author>
-      <pubDate>Sun, 12 Apr 2026 16:36:06 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 17:32:15 +0000</pubDate>
     </item>
     <item>
       <title>[RuView解説] Wi-Fi CSI × DensePose：画像を使わずにリアルタイムで人体メッシュを生成する実装ガイド</title>
       <link>https://i-harness.com/articles/ruvnet/RuView</link>
       <description>…というわけで、今回は「カメラ不要の監視技術」という、ちょっとSFチックなオープンソースプロジェクト RuView (ruvnet/RuView) について、エンジニアの視点で分かりやすく解説しますね。一言で言うと、「Wi-Fiの電波を『目』の代わりにして、人間のポーズを可視化する技術」 です。...</description>
       <author>i-harness.com</author>
-      <pubDate>Sun, 12 Apr 2026 16:36:06 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 17:32:15 +0000</pubDate>
     </item>
     <item>
       <title>【エンジニア必見】Claude CodeやCodexを並列起動！AI時代の司令部「Superset」導入ガイド</title>
       <link>https://i-harness.com/articles/superset-sh/superset</link>
       <description>いいか、今から紹介するのは、AIエージェント共を馬車馬のように働かせるための最強の司令部だ。その名も「Superset」（superset-sh/superset）。貴様が一人でシコシココードを書いている間に、隣のエンジニアはAIの軍隊（アーミー）を指揮して爆速でデプロイを終わらせている……その差は何だ？ この「戦場（IDE）」を知っているかどうかだ！...</description>
       <author>i-harness.com</author>
-      <pubDate>Sun, 12 Apr 2026 16:36:06 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 17:32:15 +0000</pubDate>
     </item>
     <item>
       <title>OpenClawの心臓部「ClawHub」徹底解説：AIエージェントに最強のスキルを実装する方法</title>
       <link>https://i-harness.com/articles/openclaw/clawhub</link>
       <description>君が追っている openclaw/clawhub について、エンジニアの視点からその正体を暴き、使いこなし方をレクチャーしよう。これは単なるディレクトリではない。AIエージェントに「手足」を与えるための、いわば秘密道具の武器庫だ。OpenClaw は、ローカル環境で動作する強力なAIエージェントだ。そして ClawHub は、そのエージェントに特定の任務（ブラウザ操作、メール送信、複雑なデータ解析など）を実行させるための「スキル（Skill）」を管理・配布する中央指令部にあたる。...</description>
       <author>i-harness.com</author>
-      <pubDate>Sun, 12 Apr 2026 16:36:06 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 17:32:15 +0000</pubDate>
     </item>
     <item>
       <title>PythonとNode.jsの力を解き放つ。ByteDanceのオープンソース「Deer-flow」でエージェント開発を加速させる</title>
       <link>https://i-harness.com/articles/bytedance/deer-flow</link>
       <description>エンジニアの視点で見ると、これって「ただのチャットAI」とは全然別物。まるで、一歩先を読んで複雑な家事（仕事）を全部片付けてくれる、すごく有能な執筆・開発パートナーって感じかな。「どれが一番似合うかな？」って水着選びで迷うみたいに、Deer-flowの可能性を一緒に探っていこう！...</description>
       <author>i-harness.com</author>
-      <pubDate>Sun, 12 Apr 2026 16:36:06 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 17:32:15 +0000</pubDate>
     </item>
     <item>
       <title>脱・肥大化！XZ Utilsを使って配布バイナリやログを限界までスリム化する方法</title>
       <link>https://i-harness.com/articles/tukaani-project/xz</link>
       <description>ソフトウェアエンジニアの視点から、このツールがいかに素晴らしい「おもてなし」を実現するか、コント仕立てで解説いたします。支配人（エンジニア） 「おい！さっき届いたログファイル、ストレージの部屋に入りきらないぞ！どうなってるんだ！」ベルボーイ（XZ） 「支配人、ご安心を。私、XZにお任せいただければ、その巨大な荷物を『LZMA2』という特殊なパッキング術で、跡形もなく（は言い過ぎですが）コンパクトにしてみせます。」...</description>
       <author>i-harness.com</author>
-      <pubDate>Sun, 12 Apr 2026 16:36:06 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 17:32:15 +0000</pubDate>
     </item>
     <item>
       <title>Moonshine：Whisperを超えろ。ニュータイプに贈る次世代エッジ音声認識ガイド</title>
       <link>https://i-harness.com/articles/moonshine-ai/moonshine</link>
       <description>いいかいアムロ、これは君のガンダムのOSをアップグレードするようなものだ。 エンジニアの視点から、私とシャアがこの「Moonshine」を導いてやろう。「認めたくないものだな、自分自身の若さゆえの過ちというものを……。だが、このMoonshineの性能は認めざるを得ない。」...</description>
       <author>i-harness.com</author>
-      <pubDate>Sun, 12 Apr 2026 16:36:06 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 17:32:15 +0000</pubDate>
     </item>
     <item>
       <title>最強のAI実行基盤を構築せよ。OpenSandboxで実現する、安全でスケーラブルなコード実行環境</title>
       <link>https://i-harness.com/articles/alibaba/OpenSandbox</link>
       <description>今日は、AI（エージェント）という「見習いシェフ」たちが、キッチン（実行環境）を汚したり火事にしたりせずに、自由自在に腕を振るえる魔法の調理場、「OpenSandbox」という極上の素材を仕入れてきました。エンジニアの視点から、このツールがなぜ「三ツ星級」なのか、そのレシピを丁寧に解説しますね！...</description>
       <author>i-harness.com</author>
-      <pubDate>Sun, 12 Apr 2026 16:36:06 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 17:32:15 +0000</pubDate>
     </item>
     <item>
       <title>Pythonエンジニア必見！次世代スクレイピングフレームワーク『Scrapling』完全ガイド</title>
       <link>https://i-harness.com/articles/D4Vinci/Scrapling</link>
       <description>今日はエンジニアの姫のために、最近業界で「超イケてる」って噂のスクレイピング・フレームワーク『Scrapling』について、俺がエスコートするみたいに優しく教えてあげるよ。これを使えば、面倒なデータ収集も俺の接客くらいスマートに片付いちゃうから、しっかり見ててね。...</description>
       <author>i-harness.com</author>
-      <pubDate>Sun, 12 Apr 2026 16:36:06 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 17:32:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -3,188 +3,188 @@
     <title>学術情報センター</title>
     <link>https://web.sic.shibaura-it.ac.jp</link>
     <description>芝浦工業大学 学術情報センターのRSS(非公式)</description>
-    <pubDate>Fri, 01 May 2026 14:52:49 +0000</pubDate>
+    <pubDate>Fri, 01 May 2026 15:55:16 +0000</pubDate>
     <item>
       <title>2026/04/16 ゴールデンウィーク期間中のPC教室・窓口の開室スケジュールについて</title>
       <link>https://web.sic.shibaura-it.ac.jp/faqs/faq_questions/view/337/5579560a781e76e9fb6a25595729538a?frame_id=544</link>
       <description>日時&#xA;2026年4月28日(火)～5月7日(木)&#xA; &#xA;詳細&#xA;以下の期間では、開室時間が通常と異なります。期間：4/28～5/7&#xA; &#xA;&#xA;&#xA;&#xA;日付&#xA;授業&#xA;窓口&#xA;&#xA;&#xA;4月28日(火)&#xA;通常授業&#xA;〇&#xA;&#xA;&#xA;4月29日(水) &#xA;通常授業&#xA;◯&#xA;&#xA;&#xA;4月30日(木) &#xA;通常授業 &#xA;◯&#xA;&#xA;&#xA;5月1日(金)&#xA;通常授業 &#xA;◯&#xA;&#xA;&#xA;5月2日(土)&#xA;通常授業&#xA;◯&#xA;&#xA;&#xA;5月3日(日) &#xA;休&#xA;×&#xA;&#xA;&#xA;5月4日(月) &#xA;オンデマンド授業日&#xA;×&#xA;&#xA;&#xA;5月5日(火) &#xA;休講&#xA;×&#xA;&#xA;&#xA;5月6日(水) &#xA;休講&#xA;×&#xA;&#xA;&#xA;5月7日(木) &#xA;休講&#xA;×&#xA;&#xA;&#xA;5月8日(金)&#xA;通常授業&#xA;◯&#xA;&#xA;&#xA;&#xA; 上記のとおり、ゴールデンウィーク期間中は、一部日程で閉室となっております。ご不便をおかけいたしますが、あらかじめご確認のうえ、ご利用くださいますようお願いいたします。</description>
       <author>学術情報センター</author>
-      <pubDate>Fri, 01 May 2026 14:52:49 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 15:55:16 +0000</pubDate>
     </item>
     <item>
       <title>2026/03/18 （復旧）M365サービス（Teams、OneDrive等）が利用できない</title>
       <link>https://web.sic.shibaura-it.ac.jp/faqs/faq_questions/view/337/0b7a186ac81e0b975cf108641e1ddc9e?frame_id=544</link>
       <description>現在、2026年度に2年生になる大学院生の皆様が、M365のサービス（TeamsやOneDrive等）が利用できない障害が発生しております。&#xA;ご迷惑をおかけして申し訳ございませんが、復旧までもう少々お待ちください。&#xA;復旧いたしました。年次更新により、新M2の皆さんのライセンス付与対象のグループから外れたことが原因でした。状況は以下の通りです。&#xA;3月18日　6時頃　　日次バッチによりライセンス付与対象グループから、新M2メンバーが外れる　　　　  　同時にM365のライセンスが、新M2の皆さんから外れる　10時17分 ユーザからの問い合わせにより事象の発覚　調査と対策を開始する　13時18分 復旧</description>
       <author>学術情報センター</author>
-      <pubDate>Fri, 01 May 2026 14:52:49 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 15:55:16 +0000</pubDate>
     </item>
     <item>
       <title>2026/02/12 Googleドライブでのパスワード保護されたファイルの閲覧に関する注意喚起</title>
       <link>https://web.sic.shibaura-it.ac.jp/faqs/faq_questions/view/337/b9749246c83e2a7c026485112fb5ae53?frame_id=544</link>
       <description>2026年1月、Google Workspace における Microsoft Office の相互運用性が改善され、ドキュメント、スプレッドシート、スライド内で直接、パスワードで保護された Microsoft Office ファイルを編集できるようになりました。&#xA;一方で、ファイルの開き方によっては設定されたパスワードが削除される場合があります。&#xA;&#xA;対象となるファイル形式・MS Word形式（.docx, .doc等）・MS Excel形式（.xlsx, .xls等）・MS Powerpoint形式（.pptx, .ppt)&#xA;パスワードが削除される状況ブラウザ上のGoogle Driveにて、パスワード保護された上記形式のファイルを開くと、次のような警告が表示されます。「プレビュー」→パスワードを入力後にプレビュー表示されます。パスワードは削除されません。「編集」→パスワードを入力後に編集モードで表示されます。パスワードが削除されます。&#xA;パスワードが一度削除されると、その後のアクセスはパスワードなしで可能となります。&#xA;&#xA;推奨される対応&#xA;パスワード付きの MS Office 形式のファイルを、ブラウザ上のGoogle Drive で開く際は、目的に応じて以下の操作を選択してください。&#xA;・内容を確認する 　「プレビュー」で開く・パスワードを維持して編集する 　「PC版ドライブ」で開く&#xA;なお、PDF形式では、パスワード削除は発生しないようです。&#xA;パスワードが削除されてしまった場合は、PC版ドライブ上でファイルを開いて再設定、あるいは、パスワード設定済ファイルの再アップロードが必要となります。&#xA;&#xA;&#xA;皆さまのご理解とご協力をお願い申し上げます。&#xA;参考情報https://workspaceupdates.googleblog.com/2026/01/edit-password-protected-office-files-google-drive.html?m=1</description>
       <author>学術情報センター</author>
-      <pubDate>Fri, 01 May 2026 14:52:49 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 15:55:16 +0000</pubDate>
     </item>
     <item>
       <title>2026/02/05 SRAS無線LANで利用している認証サーバの照明証を更新します（2月16日予定）</title>
       <link>https://web.sic.shibaura-it.ac.jp/faqs/faq_questions/view/337/238fdfe4303a7f642cef3bedf7346726?frame_id=544</link>
       <description>2026/02/16（月）に、SRAS無線LANで利用している認証サーバのサーバ証明書を更新いたします。&#xA;更新後、SRAS無線LANがつながならなくなることがあります。&#xA;その場合は、いったん設定を削除の上、再度設定を行ってください。&#xA; &#xA;SRAS無線LANの設定方法に関しましては、こちらをご確認ください。</description>
       <author>学術情報センター</author>
-      <pubDate>Fri, 01 May 2026 14:52:49 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 15:55:16 +0000</pubDate>
     </item>
     <item>
       <title>こちら</title>
       <link>https://web.sic.shibaura-it.ac.jp/SRAS_wifi</link>
       <description></description>
       <author>学術情報センター</author>
-      <pubDate>Fri, 01 May 2026 14:52:49 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 15:55:16 +0000</pubDate>
     </item>
     <item>
       <title>2026/01/31 さくらタームのPC教室および窓口の開室時間について</title>
       <link>https://web.sic.shibaura-it.ac.jp/faqs/faq_questions/view/337/ae118666ccb3bc4c80f4264402ad880a?frame_id=544</link>
       <description>さくらタームのPC教室の閉室および窓口業務についてのお知らせです。&#xA;●対象期間　・2026/1/27(火) ～ 2026/4/13(月)&#xA;    対象期間中の入構禁止期間(全日閉室)　　2026/1/29(木)18:00 ～ 2026/2/5(月)12:00　　2026/2/19(木)18:00 ～ 2026/2/22(日)12:00&#xA;●PC教室について　・開室日時&#xA;　　　(豊洲) 月～金　9時 ～ 20時　　　(大宮) 月～金　9時 ～ 20時30分　　　※入構禁止期間は除く&#xA;　・閉室日　　　土／日／入構禁止期間　　　※ 廊下等に設置された複合機やプロッタの利用は可能ですが、用紙補充やその他トラブル発生時のサポートは一切ありません　　　※ 閉室日に関しては、セルフ利用もできません&#xA;●利用可能教室　・豊洲：教室棟6F 実習室6　・大宮：5号館1F 情報処理教室　※教室利用予約がある日は別教室となる可能性があります&#xA;●窓口対応時間&#xA;　・(豊洲) 9時 ～ 20時　・(大宮) 9時 ～ 17時　※5号館窓口のみ&#xA;　※PC教室開室日のみ対応します&#xA;何卒ご理解・ご協力のほどよろしくお願いいたします。</description>
       <author>学術情報センター</author>
-      <pubDate>Fri, 01 May 2026 14:52:49 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 15:55:16 +0000</pubDate>
     </item>
     <item>
       <title>2026/01/23 (再周知)Googleの2段階認証設定のお願い</title>
       <link>https://web.sic.shibaura-it.ac.jp/faqs/faq_questions/view/337/c0516d8465058fe1267d1958baacd060?frame_id=544</link>
       <description>ご連絡をしていますとおり、2026年1月8日（木）以降、本学アカウント（@shibaura-it.ac.jp）を用いた Google サービスへのログインには、2段階認証の設定が必須となりました。&#xA; &#xA;GmailなどGoogleがリリースしているスマートフォンアプリにログインできている場合は、ご自身で設定を進めることができます。以下のリンクの「1.スマートフォンをお持ちの方」をご確認いただきながら設定を進めてください。https://web.sic.shibaura-it.ac.jp/google_2stp_auth&#xA;スマートフォンにログインができていない場合、二段階認証の一時無効化が必要になります。こちらは本人確認が必要なため、メール等でのオンラインでの対応はできかねます。お手数ですが、学生証または職員証をご持参のうえお近くの情報イノベーション課窓口までお越しください。窓口にて個別に対応いたします。</description>
       <author>学術情報センター</author>
-      <pubDate>Fri, 01 May 2026 14:52:49 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 15:55:16 +0000</pubDate>
     </item>
     <item>
       <title>https://web.sic.shibaura-it.ac.jp/google_2stp_auth</title>
       <link>https://web.sic.shibaura-it.ac.jp/google_2stp_auth</link>
       <description></description>
       <author>学術情報センター</author>
-      <pubDate>Fri, 01 May 2026 14:52:49 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 15:55:16 +0000</pubDate>
     </item>
     <item>
       <title>2026/01/09 (復旧)DNSサーバの障害について</title>
       <link>https://web.sic.shibaura-it.ac.jp/faqs/faq_questions/view/337/219a5356d6ffded815969994f2e3d95c?frame_id=544</link>
       <description>2026年1月9日 10時頃～10:25頃まで、学内DNSサーバに障害が発生しておりました。この影響で、教育研究系ネットワーク(SRAS)、事務系ネットワークにて名前解決が出来ないことによりインターネット・イントラネット利用が出来ない状態でした。&#xA;例）・ブラウザでWebページにアクセスできない・Zoom、Microsoft Teams等ネットワークを介したアプリケーションが正常に利用できない　等&#xA;※ eduroam無線LANによる接続の場合は問題ありません。&#xA;現在は解決しております。ご迷惑をおかけして申し訳ございません。</description>
       <author>学術情報センター</author>
-      <pubDate>Fri, 01 May 2026 14:52:49 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 15:55:16 +0000</pubDate>
     </item>
     <item>
       <title>2026/01/08 学術情報センター学生スタッフ募集</title>
       <link>https://web.sic.shibaura-it.ac.jp/faqs/faq_questions/view/337/a0e00e4617e4d951792351610fd34d62?frame_id=544</link>
       <description>2026年度学術情報センター学生スタッフを募集します。&#xA;詳細は以下をご覧ください。&#xA; &#xA;事務室勤務　：　募集要項　[PDF]実習室勤務　：　募集要項　[PDF]&#xA; &#xA;学情アルバイトFAQ</description>
       <author>学術情報センター</author>
-      <pubDate>Fri, 01 May 2026 14:52:49 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 15:55:16 +0000</pubDate>
     </item>
     <item>
       <title>募集要項</title>
       <link>https://surl.jp/VbFjkKyu</link>
       <description></description>
       <author>学術情報センター</author>
-      <pubDate>Fri, 01 May 2026 14:52:49 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 15:55:16 +0000</pubDate>
     </item>
     <item>
       <title>2025/12/23 年末年始のPC教室および窓口の閉室</title>
       <link>https://web.sic.shibaura-it.ac.jp/faqs/faq_questions/view/337/9671f1e44ec52a8522b2bc4af0667b6c?frame_id=544</link>
       <description>豊洲キャンパス・大宮キャンパス共に年末年始期間は閉室いたします。&#xA;&#xA;2025/12/24(水)　～　2026/01/6(火)　PC教室および情報イノベーション課窓口　閉室&#xA;&#xA; &#xA;複合機等の機器は利用可能ですが、用紙・インク補充・その他機器トラブルのサポートができません。ご了承のほどお願いいたします。</description>
       <author>学術情報センター</author>
-      <pubDate>Fri, 01 May 2026 14:52:49 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 15:55:16 +0000</pubDate>
     </item>
     <item>
       <title>2025/12/09 spacedesk等の画面共有ソフトの利用に関する注意喚起</title>
       <link>https://web.sic.shibaura-it.ac.jp/faqs/faq_questions/view/337/7bc8e8e37d28d282ebc389127a9a60b0?frame_id=544</link>
       <description>最近、学内ネットワーク（SRAS）上で、spacedesk をはじめとする画面共有ソフトが利用されていることが確認されています。これらのソフトを学内 Wi-Fi などの共有ネットワーク上で利用すると、同じネットワークにいる第三者から、自分のPC画面がのぞき見されるおそれがあります。（個人情報、成績情報、研究データ、メール画面 等）&#xA;◆学内のみなさまへのお願い・学内Wi-Fi（SRAS）に接続している状態で、これらのソフトを利用しないでください。・利用する場合は、自宅など自分だけが使うネットワークに限定し、カフェ等の公衆Wi-Fiでは利用しないでください。・PC起動時に自動でソフトが起動する設定になっている場合は、自動起動をオフにしてください。・すでに学内Wi-Fi接続中に利用していた方は、設定の見直しやアンインストール等のご対応をお願いします。&#xA;【お問い合わせ先】学生の方：oshiete@sic.shibaura-it.ac.jp教職員の方：goiken@sic.shibaura-it.ac.jp&#xA;皆さまのご理解とご協力をお願い申し上げます。</description>
       <author>学術情報センター</author>
-      <pubDate>Fri, 01 May 2026 14:52:49 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 15:55:16 +0000</pubDate>
     </item>
     <item>
       <title>2025/11/27 (復旧)教研系ファイルサーバの障害について</title>
       <link>https://web.sic.shibaura-it.ac.jp/faqs/faq_questions/view/337/7db4434ba853fd55008dbfd369f91701?frame_id=544</link>
       <description>2025年11月27日10:40頃より、教研系ファイルサーバに障害が発生しておりましたが、同日12:10より徐々に復旧を確認しています。ご迷惑をおかけし申し訳ございませんでした。&#xA; &#xA; 具体的には以下の障害を確認しています。&#xA;・PC教室／一般教室教卓PC利用中にデスクトップが見えなくなる(ファイルが消えたわけではありません）・PC教室／一般教室教卓PCのサインイン・サインアウトが終わらない・MyVolumeにアクセスできない・S*gsotにアクセスできない&#xA; &#xA;(2025/11/27 13:00 更新)</description>
       <author>学術情報センター</author>
-      <pubDate>Fri, 01 May 2026 14:52:49 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 15:55:16 +0000</pubDate>
     </item>
     <item>
       <title>2025/11/26 (復旧)大宮キャンパス内仮想基盤の障害について</title>
       <link>https://web.sic.shibaura-it.ac.jp/faqs/faq_questions/view/337/1cf0005a1f422102e26e8c790fe3012f?frame_id=544</link>
       <description>2025年11月26日 12時頃より、大宮キャンパスの仮想基盤の一部ホストにて障害が発生しておりました。この影響で、一部のサービスに障害が発生しておりました。現在は復旧しております。&#xA;【発生日時】&#xA;　2025/11/26 12:00頃 ～ 13:30頃&#xA;【障害内容】&#xA;　・PC教室端末および一般教室教師卓から、インターネット接続が出来ない(13:20頃～13:30頃)　・学内のAC区分ソフトウェアのライセンスサーバにアクセスできない</description>
       <author>学術情報センター</author>
-      <pubDate>Fri, 01 May 2026 14:52:49 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 15:55:16 +0000</pubDate>
     </item>
     <item>
       <title>2025/11/21 (復旧)教研系ファイルサーバの障害について</title>
       <link>https://web.sic.shibaura-it.ac.jp/faqs/faq_questions/view/337/e9295e5f74f4415e4576a78dec937ad1?frame_id=544</link>
       <description>2025年11月21日15:00頃より、教研系ファイルサーバに障害が発生していました。同日16:30より徐々に復旧を確認しています。ご迷惑をおかけし申し訳ございませんでした。&#xA;具体的には以下の障害を確認しています。&#xA;・PC教室／一般教室教卓PC利用中にデスクトップが見えなくなる(ファイルが消えたわけではありません）・PC教室／一般教室教卓PCのサインイン・サインアウトが終わらない・MyVolumeにアクセスできない・S*gsotにアクセスできない&#xA; &#xA;(2025/11/21 17:30 更新)</description>
       <author>学術情報センター</author>
-      <pubDate>Fri, 01 May 2026 14:52:49 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 15:55:16 +0000</pubDate>
     </item>
     <item>
       <title>2025/11/20 (復旧)教研系ファイルサーバの障害について</title>
       <link>https://web.sic.shibaura-it.ac.jp/faqs/faq_questions/view/337/6050077a97e9b86f5a735da62b7c809e?frame_id=544</link>
       <description>2025年11月20日16:50頃～18:15頃、教研系ファイルサーバに障害が発生しておりました。現在は復旧しております。この影響により、以下の障害が発生していました。&#xA;・PC教室／一般教室教卓PC利用中にデスクトップが見えなくなる(ファイルが消えたわけではありません）・PC教室／一般教室教卓PCのサインイン・サインアウトが終わらない・MyVolumeにアクセスできない等&#xA;(2025/11/20 18:20 更新)</description>
       <author>学術情報センター</author>
-      <pubDate>Fri, 01 May 2026 14:52:49 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 15:55:16 +0000</pubDate>
     </item>
     <item>
       <title>2025/11/19 (復旧)主に学部1年生を対象とする授業に関連したTeams、SharePoint、Onedrive等の不具合について</title>
       <link>https://web.sic.shibaura-it.ac.jp/faqs/faq_questions/view/337/eef24e327189954e9dc04a848e5505ed?frame_id=544</link>
       <description>2025年11月19日未明～同日12:15頃まで以下の障害が発生しておりましたが、復旧いたしました。&#xA;試験シーズンのところ、この度はご迷惑をおかけし大変申し訳ございませんでした。&#xA;（2025年11月19日12:40更新）&#xA;&#xA;2025年11月19日未明より、授業グループに対して、一部の学生のアクセス権が反映されていない問題を確認しております。&#xA;現在確認できている対象のユーザおよびグループは、以下の通りです。&#xA;対象者　・2025年度入学の学生(学籍番号が25から開始する学生)&#xA;影響するグループ　・2025年秋タームの上記履修者が所属する授業グループ&#xA;確認されている問題　・授業録画等、 授業グループを利用してアクセス権を設定しているTeams、 SharePoint、 OneDriveにおける各種ファイル共有にアクセスできない可 能性があります。　・(教員向け) 座席表作成ツールを含むTALENT上の履修者に対象の学生が含 まれていない可能性がありましたが、現在は復旧しております。&#xA;原因は夜間のバッチ処理に不具合が発生したためであり、本日11月19日(水)3限開始までの復旧を目指し対応中です。12:15頃復旧いたしました。試験シーズンのところ、この度はご迷惑をおかけし大変申し訳ございません。</description>
       <author>学術情報センター</author>
-      <pubDate>Fri, 01 May 2026 14:52:49 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 15:55:16 +0000</pubDate>
     </item>
     <item>
       <title>2025/11/12 【重要・復旧】サービス・ネットワーク停止のお知らせ(2025/12/27～12/29実施)  12/29 18:30追記</title>
       <link>https://web.sic.shibaura-it.ac.jp/faqs/faq_questions/view/337/83db102675bb23f3c4a8c441bbb0f749?frame_id=544</link>
       <description>2025/12/29 18:30 追記本メンテナンス作業は完了し、すべてのサービス・ネットワークは復旧しました。長時間にわたりご不便・ご迷惑をおかけしましたことをお詫び申し上げますとともに、ご理解・ご協力をいただきありがとうございました。&#xA;&#xA;2025/12/29 15:15 追記一部サービスを除いて復旧しましたのでお知らせいたします。復旧していないサービスは以下の通りです。・SIT Station　復旧しました(18:30)・施設予約システム　復旧しました(18:30)・eduroam　復旧しました(16:45)・印刷システム(一部)　復旧しました(17:55)&#xA;ご迷惑をおかけして申し訳ございませんが、復旧まで今しばらくお待ちください。&#xA;&#xA;学生・教職員の皆様&#xA;下記日時において、サーバーおよびデータベースのメンテナンスに伴い、サービス・ネットワークが停止いたします。ご不便をおかけいたしますが、ご協力をお願いいたします。&#xA;作業日時:  2025/12/27(土) ～ 2025/12/28(日) 終日作業日時:  2025/12/27(土) ～ 2025/12/29(月) 終日　(作業の都合により延長しました)&#xA;作業箇所: 豊洲・大宮・白井データセンター&#xA;影響:  全てのサービス・ネットワークが停止します。　インターネットへの接続    DNSサービス    学内無線LAN、eduroam　SRAS VPNサービス    メールの送受信(Gmail含む)    クラウドサービスへのログイン (Microsoft 365、Zoom、Adobe等)    印刷システム    PC教室     業務系システム     等※ 作業の進捗状況により終了時間は前後します。</description>
       <author>学術情報センター</author>
-      <pubDate>Fri, 01 May 2026 14:52:49 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 15:55:16 +0000</pubDate>
     </item>
     <item>
       <title>2025/09/09 ネットワーク停止のお知らせ (2025/9/21実施)</title>
       <link>https://web.sic.shibaura-it.ac.jp/faqs/faq_questions/view/337/19be75e1759025f0c1abdabd87d44a0f?frame_id=544</link>
       <description>学生・教職員の皆様&#xA;下記日時において、ネットワーク機器のメンテナンスに伴い、ネットワークが停止いたします。ご不便をおかけいたしますが、ご協力をお願いいたします。&#xA;2025/9/21(日) 18:00～21:00&#xA;  作業箇所: 白井データセンター&#xA;  影響:インターネットへの接続が断続的に停止します。 &#xA;※ 作業の進捗状況により終了時間は前後します。</description>
       <author>学術情報センター</author>
-      <pubDate>Fri, 01 May 2026 14:52:49 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 15:55:16 +0000</pubDate>
     </item>
     <item>
       <title>2025/09/01 多要素認証（MFA）必須化の実施について (2025/10/1実施)</title>
       <link>https://web.sic.shibaura-it.ac.jp/faqs/faq_questions/view/337/32c8bce05fd3e9f44822e9aa140f2f3b?frame_id=544</link>
       <description>学生・教職員の皆さま &#xA;情報イノベーション課よりお知らせです。 &#xA;先日の不正アクセスによる個人情報漏えいにつきましては、 皆さまにご心配とご迷惑をおかけしましたことを深くお詫び申し上げます。 &#xA;不正アクセス対策の強化のため、2025年10月1日より多要素認証（MFA）を必須化いたします。 つきましては、下記の設定マニュアルをご確認のうえ、事前に設定をお願いいたします。 2025年10月1日以降 MFA が必須となり、従来の方法ではログインできなくなる代表的なサービス / システム・GlobalProtect・Microsoft 365・Zoom・ScombZ・AMI・S*gsot　など&#xA; &#xA;Microsoft 365 多要素認証 設定マニュアル：https://web.sic.shibaura-it.ac.jp/ms_mfa&#xA;また、MFA必須化への対応として、本日よりADFSログイン画面が一部変更となりますので、 次の利用方法をご確認下さい。 Microsoft 365 多要素認証  利用方法:https://web.sic.shibaura-it.ac.jp/ms_mfa_usage &#xA; &#xA;【お問い合わせ先】 学生の方：oshiete@sic.shibaura-it.ac.jp 教職員の方：goiken@sic.shibaura-it.ac.jp &#xA;皆さまのご理解とご協力をお願い申し上げます。</description>
       <author>学術情報センター</author>
-      <pubDate>Fri, 01 May 2026 14:52:49 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 15:55:16 +0000</pubDate>
     </item>
     <item>
       <title>https://web.sic.shibaura-it.ac.jp/ms_mfa</title>
       <link>https://web.sic.shibaura-it.ac.jp/ms_mfa_old</link>
       <description></description>
       <author>学術情報センター</author>
-      <pubDate>Fri, 01 May 2026 14:52:49 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 15:55:16 +0000</pubDate>
     </item>
     <item>
       <title>2025/08/06 学認サービス　ログイン方法変更のお知らせ</title>
       <link>https://web.sic.shibaura-it.ac.jp/faqs/faq_questions/view/337/932906d5c914c7cf7cfa8ec77f532306?frame_id=544</link>
       <description>利用手続きの簡素化、セキュリティ強化等を目的に、2025年9月以降(※)、学認サービスのログイン方法を変更いたします。(※)2025年9月3日のメンテナンス終了後より、新しいログイン方法に切り替わります。&#xA;これまで必要だったAMIでの利用申請や学認用パスワードは不要となり、今後は ScombZなどと同じWindows/ADFSパスワードでのログインが可能になります。&#xA;ーーーーーーーーーーーーーーーーーーーーーーーーーーー【これまで】　1.AMIで利用申請・学認用パスワードの登録　2.学認対応サービスに、学認用パスワードでログイン　　　　　　↓【変更後（2025年9月3日以降）】　1.学認対応サービスに、Windows/ADFSパスワードでログイン　（詳細な手順は学術情報センターのマニュアルをご確認下さい）　　https://web.sic.shibaura-it.ac.jp/login_gakunin　ーーーーーーーーーーーーーーーーーーーーーーーーーーー&#xA;また今回の変更に伴い、下記の日時でメンテナンス作業を実施します。作業中は対象のサービスが一時的にご利用いただけません。ご不便をおかけいたしますが、ご理解とご協力をお願いいたします。&#xA;◆日時　・2025年9月3日（水）18:00 ～ 18:15（予定）　　※切り替え作業完了後は、新しいログイン方法となります。&#xA;◆作業内容　・ログイン変更のためのサーバー切り替え作業&#xA;◆影響を受けるサービス　・学認対応サービス（Science Direct、CiNiiなど） https://web.sic.shibaura-it.ac.jp/page_20191224041441 　・MATLABへのサインイン ※既にサインイン済みの方は、継続してご利用いただけます。&#xA;◆お問い合わせ先 　・教職員：goiken@sic.shibaura-it.ac.jp 　・在学生：oshiete@sic.shibaura-it.ac.jp</description>
       <author>学術情報センター</author>
-      <pubDate>Fri, 01 May 2026 14:52:49 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 15:55:16 +0000</pubDate>
     </item>
     <item>
       <title>https://web.sic.shibaura-it.ac.jp/login_gakunin</title>
       <link>https://web.sic.shibaura-it.ac.jp/login_gakunin</link>
       <description></description>
       <author>学術情報センター</author>
-      <pubDate>Fri, 01 May 2026 14:52:49 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 15:55:16 +0000</pubDate>
     </item>
     <item>
       <title>2025/07/25 学認サービス　メンテナンスに伴う一時停止のお知らせ</title>
       <link>https://web.sic.shibaura-it.ac.jp/faqs/faq_questions/view/337/e443fb776ab30ce7b106960cc498473a?frame_id=544</link>
       <description>下記のとおり、サーバメンテナンス作業に伴い、学認サービスを一時的に停止いたします。&#xA;皆さまにはご不便をおかけいたしますが、ご理解とご協力のほど、よろしくお願い申し上げます。&#xA; &#xA;◆メンテナンス作業の目的&#xA;　・学認サーバのバージョンアップに関する動作検証&#xA;　・認証の仕組み（ログイン方法）の切り替えに関するテスト&#xA; &#xA;◆停止予定日時&#xA;　・2025年7月30日（水）16:00　～　19:00&#xA;　・2025年7月31日（木）16:00　～　19:00&#xA;　・2025年8月2日（土）16:00　～　19:00　※予備日&#xA; &#xA;◆影響範囲&#xA;　上記時間帯は、以下のサービスが一時的にご利用いただけなくなります。&#xA;　・学認対応サービス（Science Direct、CiNiiなど）　https://web.sic.shibaura-it.ac.jp/page_20191224041441&#xA;　・MATLABへのサインイン　※既にサインイン済みの方は、継続してご利用いただけます。&#xA; &#xA;◆ ご注意事項&#xA;　・メンテナンス中に対象サービスへアクセスしようとすると、普段とは異なるログイン画面が表示されることがあります。誤って操作すると、正しくサービスが使えない可能性がありますので、メンテナンス時間中は対象サービスへのアクセスをお控えください。&#xA;　・今後、学認サービスへのログイン方法が変更となる予定です。変更内容については、別途ご案内いたします。&#xA;　&#xA;◆お問い合わせ先&#xA;　・教職員：goiken@sic.shibaura-it.ac.jp&#xA;　・在学生：oshiete@sic.shibaura-it.ac.jp</description>
       <author>学術情報センター</author>
-      <pubDate>Fri, 01 May 2026 14:52:49 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 15:55:16 +0000</pubDate>
     </item>
     <item>
       <title>サイトマップ</title>
       <link>https://web.sic.shibaura-it.ac.jp/page_20190906054135</link>
       <description></description>
       <author>学術情報センター</author>
-      <pubDate>Fri, 01 May 2026 14:52:49 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 15:55:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
